@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of the commission of array: granted from His Majesty to the Marquesse of Hertford. Read in the House of Commons, and ordered to be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78681</idno>
+            <idno type="STC">Wing C2168</idno>
+            <idno type="STC">Thomason E113_20</idno>
+            <idno type="STC">ESTC R17751</idno>
+            <idno type="EEBO-CITATION">99860260</idno>
+            <idno type="PROQUEST">99860260</idno>
+            <idno type="VID">112377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112377)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of the commission of array: granted from His Majesty to the Marquesse of Hertford. Read in the House of Commons, and ordered to be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 24. 1642. London, Printed by L.N. and I.F. for E. Husbands and J. Franck, and are to be sold at their shops in the middle Temple, and the Kings-head in Fleetstreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>William Seymour, Duke of Somerset, was earlier styled Marquis of Hertford.</note>
+                  <note>Dated at end: York the second of August, 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660 --  Early works to 1800.</term>
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112377:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>A Copy of the COMMISSION OF ARRAY: Granted From His Majeſty TO THE Marqueſſe of Hertford.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>REad in the Houſe of Commons, and Ordered to be forth<g ref="char:EOLhyphen"/>with Printed and publiſhed:</p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>AUGUST 24. 1642. <hi>London,</hi> Printed by <hi>L.N.</hi> and <hi>I.F.</hi> for <hi>E. Husbands</hi> and <hi>J. Franck,</hi> and are to be ſold at their ſhops in the mid<g ref="char:EOLhyphen"/>dle Temple, and the Kings-head in Fleetſtreet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112377:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="3" facs="tcp:112377:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>CHARLS REX:</signed>
+            </opener>
+            <p>
+               <hi>CHARLS</hi> by the grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the Faith, &amp;c. To Our Right truſty, and Right welbeloved Couſin and Councellor, <hi>William</hi> Marqueſſe of <hi>Hertford,</hi> Greeting.</p>
+            <p>Whereas there are now at and neer the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> great Forces levying, and Monies raiſing by way of Contribution and otherwiſe, towards the charge of the raiſing, and maintaining an Army or Forces, by Order of Our two Houſes of Parliament, not onely without Our Conſent, but contrary to Our ſeverall expreſſe Commands, publiſhed by ſeverall Proclamations, Let<g ref="char:EOLhyphen"/>ters, and otherwiſe; and the ſame Forces are actually in ſo much forwardneſſe, as that there are divers Horſmen daily Exerciſed, and Trained in places about Our ſaid City of <hi>London,</hi> and great numbers of Foot raiſing, and a Generall, and other principall Officers declared; We have found it neceſſary to raiſe and levie Forces for the defence of the Proteſtant Religion, Our Perſon, the two Houſes of Parliament, the Laws of the Land, the Li<g ref="char:EOLhyphen"/>berty and Property of the Subject, and Priviledges of Parliament. And for the ſpeciall truſt and confidence We have and do repoſe in your approved Wiſdom,
+<pb n="4" facs="tcp:112377:3"/>
+               <!-- PDF PAGE 27 -->Fidelity, Valour, and great Ability, Do name, aſſign, conſtitute &amp; ordain you the ſaid <hi>William</hi> Marq: of <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> to be Our Lieutenant Generall of all ſuch For<g ref="char:EOLhyphen"/>ces, as by vertue of this Our Commiſſion ſhall be levied and raiſed, or by vertue of this Our Commiſſion ſhall be brought unto you within all or any Our Counties of <hi>Devon, Cornwall, Sommerſet, Dorſer, Southampton, Glou<g ref="char:EOLhyphen"/>ceſter, Berks, Oxon, Hereford, Monmouth, Radnor, Breck<g ref="char:EOLhyphen"/>nock, Glamorgan, Carmarthen, Pembroke, Cardigan,</hi> and in Our Cities of <hi>Exeter, Briſtoll, Glouceſter</hi> and <hi>Oxford,</hi> and the Counties of the ſame; And likewiſe in Our Ci<g ref="char:EOLhyphen"/>ties of <hi>Bath</hi> and <hi>Wells, New Salisbury</hi> and <hi>Hereford,</hi> and alſo in Our Towns of <hi>Pool, Southampton</hi> and <hi>Haverford<g ref="char:EOLhyphen"/>weſt,</hi> and the Counties of the ſame Towns. And there<g ref="char:EOLhyphen"/>fore We do give you full Power and Authority, in caſe of any Invaſion, Inſurrection and Rebellion, or any of them; and for the ſuppreſſion or prevention of acting, or further executing the ſame, to raiſe and levie Forces, aſ<g ref="char:EOLhyphen"/>well of Our Trained-B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds as others, within all or any of the ſaid Counties and places, aſwell within Liberties as without, meet and apt for the Wars: And likewiſe to command and enjoyn the Commiſſioners of Our Commiſſions of Array, and Sheriffs of Our ſaid ſeve<g ref="char:EOLhyphen"/>rall Counties, and all Our Lieutenants, which are or ſhall be of or for Our ſaid ſeverall Counties, and every or any of them reſpectively from time to time, accord<g ref="char:EOLhyphen"/>ing to ſuch direction as you ſhall receive from Us, or as you in your good diſcretion for the purpoſes afore<g ref="char:EOLhyphen"/>ſaid ſhall think fit to ſend, or cauſe to be ſent unto you ſuch numbers of Our ſaid Subjects, apt and meet for the Wars, Armed and Arrayed as aforeſaid, to ſuch place or places, and at ſuch times as ſhall be directed by Us, or
+<pb n="5" facs="tcp:112377:3"/>
+               <!-- PDF PAGE 27 -->as you by your wiſdom and good diſcretion for Our ſaid ſervices ſhall require, or from Our ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, Sheriffs or Lieutenants, to be ſent, brought or conducted unto you. And We do further by theſe pre<g ref="char:EOLhyphen"/>ſents give you full power and authority to try, Array, and put in readineſſe the perſons ſo by you to be raiſed, levied, or aſſembled, ſent, conducted, or brought unto you and them alſo, and every of them after their abi<g ref="char:EOLhyphen"/>lities, degrees and faculties, well and ſufficiently to cauſe to be armed and weaponed, and to take the Muſters of them from time to time in places moſt meet for that purpoſe after your good diſcretion: And alſo the ſame Our Subjects ſo Arrayed, tryed and armed, aſwell men of Arms as other Horſmen, Archers and Footmen of all kindes of degrees meet and apt for the Wars, to con<g ref="char:EOLhyphen"/>duct and lead, aſwell againſt all and ſingular Enemies, Rebels and Traytors, and every of their Adherents, at<g ref="char:EOLhyphen"/>tempting any thing againſt Us, Our Crown and Digni<g ref="char:EOLhyphen"/>tie, in any of the ſaid Counties or places, from time to time as occaſion ſhall require: And the ſaid Enemies, Traytors and Rebels to invade, repreſſe, and in caſe of oppoſition or reſiſtance, to ſlay kill, and put to execu<g ref="char:EOLhyphen"/>tion of death, by all wayes or means, according to your go<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſcretion; And to do, fulfill and execute all and ſingul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r other things which ſhall be requiſite for the le<g ref="char:EOLhyphen"/>vying, conducting and government of the ſaid Forces for the conſervation of Our ſaid Realms and Subjects in peace: And alſo We give you full power and au<g ref="char:EOLhyphen"/>thority t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſtitute, and ordain Laws, Ordinan<g ref="char:EOLhyphen"/>ces and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ions from time to time, as the caſe ſhall re<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the good government and order of all the Force<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be under your command, and the
+<pb n="4" facs="tcp:112377:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:112377:4"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:112377:5"/>
+               <!-- PDF PAGE 29 -->ſame and every of them to cauſe to be duly proclaimed and performed, and executed againſt the ſaid Enemies, Traytors &amp; Rebels, and every of them, their and every of their Adherents; And of ſuch offenders apprehended, or being brought into ſubjection, to ſave whom you ſhall think good to be ſaved. And Our further will and plea<g ref="char:EOLhyphen"/>ſure is, and We do by theſe preſents give unto you full power and authority, in caſe any Invaſion of Enemies, Inſurrections or Rebellions ſhall happen to be moved in any place in this Our Realm, within or without the limits of this Our Co<g ref="char:cmbAbbrStroke">̄</g>miſſion, that then (as often as need ſhall require, by your good diſcretion, or as you ſhall be directed by Us by any ſpeciall commandment) you, with ſuch power to be levied within the limits of this Our Commiſſion as you ſhall think requiſite, or as ſhall be directed from Us as is aforeſaid, ſhall with all dilli<g ref="char:EOLhyphen"/>gence repair to the place or places where any ſuch Inva<g ref="char:EOLhyphen"/>ſion, Rebellion or Inſurrection ſhall be made, to ſubdue, repreſſe and reform the ſame, aſwell by Battell or other kinde of force as otherwiſe, according to the Laws of this Our Realm, and according to your good diſcretion. And our further will and plerſure is, &amp; We do by theſe preſents give unto you full power and authority, in caſe any Invaſion of Enemies, Inſurrections or Rebellions ſhall happen to be moved in any of the ſaid Counties or places, That then, and as often as you ſhall perceive any ſuch offences or occaſions to grow or ariſe, you with all the power you can make, ſhall with all dilligence re<g ref="char:EOLhyphen"/>pair to the place where any ſuch Invaſion, Inſurrection or Rebellion ſhall happen to be made, and to ſubdue, re<g ref="char:EOLhyphen"/>preſſe and reform the ſame, and every of them. And We do give full power and authority to you, for the
+<pb n="7" facs="tcp:112377:5"/>
+               <!-- PDF PAGE 29 -->execution of this Commiſsion, to appoint and aſsigne <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Commanders and Officers neceſſary and requiſite for government &amp; co<g ref="char:cmbAbbrStroke">̄</g>mand of Our Army. And further alſo, That in caſe you ſhall in your diſcretion think fit to di<g ref="char:EOLhyphen"/>vide or diſpoſe the ſaid Forces by land or by ſea, into ſe<g ref="char:EOLhyphen"/>verall parts, that then you may as often as occaſion ſhall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, divide &amp; diſpoſe the ſame for the purpoſes aforeſaid, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto ſuch parts and places at your pleaſure, and appoint <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Commanders over ſuch parts of the ſaid Forces, as in your diſcretion you ſhall think meet: And We do further give and grant unto you full power and au<g ref="char:EOLhyphen"/>thority for Us &amp; in Our name (as occaſion ſhal require, according to your diſcretion) by publike Proclamati<g ref="char:EOLhyphen"/>ons to make tender of Our Royall Grace and Pardon to all ſuch Traytors and Rebels (if any ſhall be) as ſhall ſubmit to Us, and deſire to be received to Our Mercie; And for the better execution of this Our ſervice, We do further give and grant to you full power and autho<g ref="char:EOLhyphen"/>rity (as occaſion ſhall require) whenſoever you ſhall (according to the intent of theſe Our Letters Patents) have an Army, or Forces under your command, in Our abſence to command all Our Forts &amp; Caſtles now forti<g ref="char:EOLhyphen"/>fied, or hereafter to be fortified, in or neer the parts or places where the ſaid Army ſhall be, and to remove, diſ<g ref="char:EOLhyphen"/>place or continue the Captains, Lieutenants, Comman<g ref="char:EOLhyphen"/>ders and Souldiers, as you ſhall think meet, for the good and ſafety of this Our Kingdom.</p>
+            <p>Wherefore We will and Command you Our ſaid Lieutenant Generall, with all dilligence duly to Exe<g ref="char:EOLhyphen"/>cute the Premiſſes with effect; And whatſoever you ſhall do by vertue of this Our Commiſſion, and accord<g ref="char:EOLhyphen"/>ing to the tenour and effect of the ſame, touching the
+<pb n="8" facs="tcp:112377:6"/>
+               <!-- PDF PAGE 30 -->Execution of the Premiſſes, or any part thereof, you ſhall be for the ſame by theſe preſents diſcharged in that behalf againſt Us, Our Heirs and Succeſſours. And further, We will and command all and ſingular Our Lieutenants, Deputy Lieutenants, Officers of Our Ordnance, Juſtices of Peace, M<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sheriffs, Bailiffs, Conſtables, Headboroughs, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Our Officers, Miniſters and Subjects, meet and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Wars within the ſaid Counties and pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces, to whom it ſhall appertain, that they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very of them from time to time ſhall be atten<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iding, aſſiſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt and helping to you, and at the commandment of you as aforeſaid in the Execution hereof, as they and every of them tender Our pleaſure, and will anſwer for the con<g ref="char:EOLhyphen"/>trary at their utmoſt perils. Nevertheleſſe Our will and pleaſure is, That you the ſaid <hi>William</hi> Marqueſſe of <hi>Hertford,</hi> in the Execution of this Our Commiſſion, ſhall from time to time proceed according to ſuch pri<g ref="char:EOLhyphen"/>vate Inſtructions as are or ſhall be delivered unto you under Our Signe manuall.</p>
+            <p>In Witneſſe whereof, We have made theſe Our Let<g ref="char:EOLhyphen"/>ters to be made Patents, and to have continuance during Our pleaſure.</p>
+            <closer>
+               <dateline>Witneſſe, &amp;c. Our Self at <hi>York</hi> 
+                  <date>the ſe<g ref="char:EOLhyphen"/>cond of Auguſt, 1642.</date>
+               </dateline>
+               <hi>Vera Copia.</hi> 
+               <signed>HERTFORD.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
